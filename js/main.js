@@ -12,7 +12,6 @@ const displayData = ()=> {
     <td>${el.email} </td>
     <td>${el.phone} </td>
     <td>${el.age} </td>
-    <td> delte  </td>
   </tr> `
    })
   dData.innerHTML += trs
